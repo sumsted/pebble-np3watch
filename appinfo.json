@@ -1,0 +1,24 @@
+{
+  "uuid": "2b4fa4b0-40aa-44b3-9c7e-17f5a394f465",
+  "shortName": "np3watch",
+  "longName": "NP3 Stormtrooper",
+  "companyName": "Nicholas",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [        
+       {
+            "type": "png",
+            "name": "IMAGE_BACKGROUND",
+            "file": "images/np3.png"
+        }
+    ]
+  }
+}
